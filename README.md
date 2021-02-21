@@ -1,4 +1,6 @@
-# smartbee-demo
+# simple-chatroom
+
+https://des86532.github.io/simple-chatroom/
 
 ## Project setup
 ```
